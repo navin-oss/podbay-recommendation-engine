@@ -20,6 +20,12 @@
 ![Tests](https://img.shields.io/badge/tests-23%20passed-2ea44f?style=flat-square)
 ![License](https://img.shields.io/badge/status-production%20ready-8b5cf6?style=flat-square)
 
+<br/>
+
+[![🚀 Live Demo](https://img.shields.io/badge/🚀_LIVE_NOW-podbay--recommendation--engine.onrender.com-00C48C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://podbay-recommendation-engine.onrender.com)
+
+**🌐 Live on Render → [https://podbay-recommendation-engine.onrender.com](https://podbay-recommendation-engine.onrender.com)**
+
 </div>
 
 ---
@@ -37,6 +43,23 @@ Every recommendation comes with **the exact math behind it**. PodBay scores each
 | **Multi-City Resolution** | Divergent histories (`U-010`) resolve to the latest active city with a confidence score |
 | **Cinematic Dark UI** | Glassmorphism dashboard with Recharts analytics and a immersive studio hero |
 | **Zero External Dependencies** | Fully offline-capable, deterministic, sub-millisecond scoring |
+
+---
+
+## 🔗 Live Demo
+
+The full application is deployed and running publicly on **Render**. Click through to explore:
+
+| Page | Live URL |
+|---|---|
+| 🏠 **Dashboard** | [podbay-recommendation-engine.onrender.com](https://podbay-recommendation-engine.onrender.com) |
+| 🎯 **Recommendations** | […/recommendations](https://podbay-recommendation-engine.onrender.com/recommendations) |
+| 🎛️ **Studio Explorer** | […/studios](https://podbay-recommendation-engine.onrender.com/studios) |
+| 👤 **Creator Profiles** | […/users](https://podbay-recommendation-engine.onrender.com/users) |
+| 📊 **System Evaluation** | […/evaluation](https://podbay-recommendation-engine.onrender.com/evaluation) |
+| 📖 **API Docs (Swagger)** | […/docs](https://podbay-recommendation-engine.onrender.com/docs) |
+
+> ⚠️ **Free Render tier note:** the service spins down after inactivity. The first request after a period of idle time may take ~30–50 seconds to wake the container — subsequent requests are fast.
 
 ---
 
