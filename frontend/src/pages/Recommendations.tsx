@@ -43,6 +43,7 @@ export const Recommendations: React.FC = () => {
   // Filters state
   const [filterCity, setFilterCity] = useState<string>('');
   const [filterMaxPrice, setFilterMaxPrice] = useState<string>('');
+  const [debouncedMaxPrice, setDebouncedMaxPrice] = useState<string>('');
   const [filterGenre, setFilterGenre] = useState<string>('');
   const [filterVideo, setFilterVideo] = useState<boolean>(false);
   const [filterAcoustics, setFilterAcoustics] = useState<boolean>(false);
@@ -88,7 +89,7 @@ export const Recommendations: React.FC = () => {
         sort_by: sortBy !== 'score' ? sortBy : undefined,
       };
       if (filterCity) params.city = filterCity;
-      if (filterMaxPrice) params.max_price = parseFloat(filterMaxPrice);
+      if (debouncedMaxPrice) params.max_price = parseFloat(debouncedMaxPrice);
       if (filterGenre) params.genre = filterGenre;
       if (filterVideo) params.video_recording = true;
       if (filterAcoustics) params.acoustic_treatment = true;
@@ -105,11 +106,19 @@ export const Recommendations: React.FC = () => {
     }
   };
 
+  // Debounce the free-text price field so typing doesn't spam the API.
+  useEffect(() => {
+    const handle = setTimeout(() => setDebouncedMaxPrice(filterMaxPrice), 400);
+    return () => clearTimeout(handle);
+  }, [filterMaxPrice]);
+
+  // Auto-refetch whenever the selected user, sort, or any hard-constraint filter changes.
   useEffect(() => {
     if (selectedUserId) {
       fetchRecommendations();
     }
-  }, [selectedUserId, sortBy]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [selectedUserId, sortBy, filterCity, debouncedMaxPrice, filterGenre, filterVideo, filterAcoustics]);
 
   const toggleBreakdown = (studioId: string) => {
     setExpandedBreakdowns((prev) => ({
