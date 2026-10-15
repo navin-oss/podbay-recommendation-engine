@@ -4,7 +4,7 @@
 
 ### Explainable Podcast Studio Recommendation Engine
 
-**Transparent, multi-factor studio↔creator matching — no black-box APIs, no vector databases, no external calls.**
+**Transparent, multi-factor studio↔creator matching  no black-box APIs, no vector databases, no external calls.**
 
 ![PodBay Hero Preview](PodcastStudio_Background.png)
 
