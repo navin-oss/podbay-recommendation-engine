@@ -1,0 +1,11 @@
+services:
+  podbay:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: podbay-recommendation-engine
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+    restart: unless-stopped

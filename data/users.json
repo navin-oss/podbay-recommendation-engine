@@ -1,0 +1,679 @@
+[
+  {
+    "user_id": "U-001",
+    "display_name": "Interview-first creator",
+    "profile_city": "Mumbai",
+    "past_bookings": [
+      {
+        "studio_id": "S009",
+        "date": "2026-04-05",
+        "genre": "interview"
+      },
+      {
+        "studio_id": "S017",
+        "date": "2026-06-20",
+        "genre": "interview"
+      }
+    ],
+    "saved_studios": [
+      "S001",
+      "S003"
+    ],
+    "last_active_city": "Mumbai",
+    "preferred_genres": [
+      "interview"
+    ],
+    "data_status": "synthetic_demo_profile",
+    "notes": "Synthetic profile and interaction history; not a real person's behavior."
+  },
+  {
+    "user_id": "U-002",
+    "display_name": "Video podcast creator",
+    "profile_city": "Bengaluru",
+    "past_bookings": [
+      {
+        "studio_id": "S003",
+        "date": "2026-05-31",
+        "genre": "video"
+      },
+      {
+        "studio_id": "S003",
+        "date": "2026-08-14",
+        "genre": "interview"
+      },
+      {
+        "studio_id": "S058",
+        "date": "2026-04-07",
+        "genre": "video"
+      },
+      {
+        "studio_id": "S024",
+        "date": "2025-12-23",
+        "genre": "interview"
+      },
+      {
+        "studio_id": "S003",
+        "date": "2026-03-11",
+        "genre": "video"
+      },
+      {
+        "studio_id": "S001",
+        "date": "2026-07-18",
+        "genre": "interview"
+      },
+      {
+        "studio_id": "S058",
+        "date": "2026-06-06",
+        "genre": "video"
+      }
+    ],
+    "saved_studios": [
+      "S004",
+      "S006"
+    ],
+    "last_active_city": "Bengaluru",
+    "preferred_genres": [
+      "interview",
+      "video"
+    ],
+    "data_status": "synthetic_demo_profile",
+    "notes": "Synthetic profile and interaction history; not a real person's behavior."
+  },
+  {
+    "user_id": "U-003",
+    "display_name": "New creator",
+    "profile_city": "Delhi",
+    "past_bookings": [],
+    "saved_studios": [],
+    "last_active_city": "Delhi",
+    "preferred_genres": [],
+    "data_status": "synthetic_demo_profile",
+    "notes": "Synthetic profile and interaction history; not a real person's behavior."
+  },
+  {
+    "user_id": "U-004",
+    "display_name": "Solo audio creator",
+    "profile_city": "Pune",
+    "past_bookings": [
+      {
+        "studio_id": "S041",
+        "date": "2026-07-14",
+        "genre": "solo voiceover"
+      }
+    ],
+    "saved_studios": [
+      "S002"
+    ],
+    "last_active_city": "Pune",
+    "preferred_genres": [
+      "solo voiceover"
+    ],
+    "data_status": "synthetic_demo_profile",
+    "notes": "Synthetic profile and interaction history; not a real person's behavior."
+  },
+  {
+    "user_id": "U-005",
+    "display_name": "Music podcast creator",
+    "profile_city": "Hyderabad",
+    "past_bookings": [
+      {
+        "studio_id": "S037",
+        "date": "2026-03-08",
+        "genre": "music"
+      },
+      {
+        "studio_id": "S037",
+        "date": "2026-09-23",
+        "genre": "music"
+      },
+      {
+        "studio_id": "S037",
+        "date": "2026-07-06",
+        "genre": "music"
+      }
+    ],
+    "saved_studios": [
+      "S007"
+    ],
+    "last_active_city": "Hyderabad",
+    "preferred_genres": [
+      "music"
+    ],
+    "data_status": "synthetic_demo_profile",
+    "notes": "Synthetic profile and interaction history; not a real person's behavior."
+  },
+  {
+    "user_id": "U-006",
+    "display_name": "Multi-genre creator",
+    "profile_city": "Chennai",
+    "past_bookings": [
+      {
+        "studio_id": "S023",
+        "date": "2026-04-18",
+        "genre": "interview"
+      },
+      {
+        "studio_id": "S016",
+        "date": "2026-03-09",
+        "genre": "video"
+      },
+      {
+        "studio_id": "S050",
+        "date": "2026-05-31",
+        "genre": "music"
+      },
+      {
+        "studio_id": "S023",
+        "date": "2026-05-22",
+        "genre": "interview"
+      },
+      {
+        "studio_id": "S016",
+        "date": "2026-07-16",
+        "genre": "video"
+      },
+      {
+        "studio_id": "S035",
+        "date": "2026-08-11",
+        "genre": "music"
+      },
+      {
+        "studio_id": "S023",
+        "date": "2026-03-24",
+        "genre": "interview"
+      }
+    ],
+    "saved_studios": [
+      "S008",
+      "S010"
+    ],
+    "last_active_city": "Chennai",
+    "preferred_genres": [
+      "interview",
+      "music",
+      "video"
+    ],
+    "data_status": "synthetic_demo_profile",
+    "notes": "Synthetic profile and interaction history; not a real person's behavior."
+  },
+  {
+    "user_id": "U-007",
+    "display_name": "Budget-conscious creator",
+    "profile_city": "Pune",
+    "past_bookings": [
+      {
+        "studio_id": "S005",
+        "date": "2026-02-07",
+        "genre": "solo voiceover"
+      },
+      {
+        "studio_id": "S025",
+        "date": "2026-06-14",
+        "genre": "interview"
+      }
+    ],
+    "saved_studios": [
+      "S002",
+      "S009"
+    ],
+    "last_active_city": "Pune",
+    "preferred_genres": [
+      "interview",
+      "solo voiceover"
+    ],
+    "data_status": "synthetic_demo_profile",
+    "notes": "Synthetic profile and interaction history; not a real person's behavior."
+  },
+  {
+    "user_id": "U-008",
+    "display_name": "High-production video creator",
+    "profile_city": "Mumbai",
+    "past_bookings": [
+      {
+        "studio_id": "S030",
+        "date": "2026-02-12",
+        "genre": "video"
+      },
+      {
+        "studio_id": "S045",
+        "date": "2026-04-09",
+        "genre": "video"
+      },
+      {
+        "studio_id": "S004",
+        "date": "2026-05-02",
+        "genre": "video"
+      }
+    ],
+    "saved_studios": [
+      "S003",
+      "S005"
+    ],
+    "last_active_city": "Mumbai",
+    "preferred_genres": [
+      "video"
+    ],
+    "data_status": "synthetic_demo_profile",
+    "notes": "Synthetic profile and interaction history; not a real person's behavior."
+  },
+  {
+    "user_id": "U-009",
+    "display_name": "Returning creator",
+    "profile_city": "Delhi",
+    "past_bookings": [
+      {
+        "studio_id": "S007",
+        "date": "2026-06-11",
+        "genre": "interview"
+      }
+    ],
+    "saved_studios": [
+      "S006",
+      "S011"
+    ],
+    "last_active_city": "Delhi",
+    "preferred_genres": [
+      "interview"
+    ],
+    "data_status": "synthetic_demo_profile",
+    "notes": "Synthetic profile and interaction history; not a real person's behavior."
+  },
+  {
+    "user_id": "U-010",
+    "display_name": "Contradictory-history creator",
+    "profile_city": "Bengaluru",
+    "past_bookings": [
+      {
+        "studio_id": "S004",
+        "date": "2026-09-25",
+        "genre": "music"
+      },
+      {
+        "studio_id": "S002",
+        "date": "2026-08-26",
+        "genre": "solo voiceover"
+      },
+      {
+        "studio_id": "S006",
+        "date": "2026-07-27",
+        "genre": "video"
+      }
+    ],
+    "saved_studios": [
+      "S001",
+      "S007"
+    ],
+    "last_active_city": "Bengaluru",
+    "preferred_genres": [
+      "music",
+      "solo voiceover",
+      "video"
+    ],
+    "data_status": "synthetic_demo_profile",
+    "notes": "Synthetic profile and interaction history; not a real person's behavior."
+  },
+  {
+    "user_id": "U-011",
+    "display_name": "Frequent interviewer",
+    "profile_city": "Mumbai",
+    "past_bookings": [
+      {
+        "studio_id": "S017",
+        "date": "2026-05-16",
+        "genre": "interview"
+      },
+      {
+        "studio_id": "S060",
+        "date": "2026-08-31",
+        "genre": "interview"
+      },
+      {
+        "studio_id": "S009",
+        "date": "2026-05-16",
+        "genre": "interview"
+      },
+      {
+        "studio_id": "S017",
+        "date": "2026-04-09",
+        "genre": "interview"
+      }
+    ],
+    "saved_studios": [
+      "S001",
+      "S003",
+      "S009"
+    ],
+    "last_active_city": "Mumbai",
+    "preferred_genres": [
+      "interview"
+    ],
+    "data_status": "synthetic_demo_profile",
+    "notes": "Synthetic profile and interaction history; not a real person's behavior."
+  },
+  {
+    "user_id": "U-012",
+    "display_name": "Regional-language creator",
+    "profile_city": "Hyderabad",
+    "past_bookings": [
+      {
+        "studio_id": "S052",
+        "date": "2026-01-18",
+        "genre": "interview"
+      },
+      {
+        "studio_id": "S008",
+        "date": "2026-03-15",
+        "genre": "solo voiceover"
+      },
+      {
+        "studio_id": "S052",
+        "date": "2026-01-04",
+        "genre": "interview"
+      },
+      {
+        "studio_id": "S022",
+        "date": "2026-04-19",
+        "genre": "solo voiceover"
+      },
+      {
+        "studio_id": "S052",
+        "date": "2026-09-21",
+        "genre": "interview"
+      },
+      {
+        "studio_id": "S015",
+        "date": "2026-08-07",
+        "genre": "solo voiceover"
+      },
+      {
+        "studio_id": "S052",
+        "date": "2026-05-25",
+        "genre": "interview"
+      }
+    ],
+    "saved_studios": [
+      "S002",
+      "S008"
+    ],
+    "last_active_city": "Hyderabad",
+    "preferred_genres": [
+      "interview",
+      "solo voiceover"
+    ],
+    "data_status": "synthetic_demo_profile",
+    "notes": "Synthetic profile and interaction history; not a real person's behavior."
+  },
+  {
+    "user_id": "U-013",
+    "display_name": "Travel podcast creator",
+    "profile_city": "Delhi",
+    "past_bookings": [
+      {
+        "studio_id": "S007",
+        "date": "2026-05-23",
+        "genre": "interview"
+      },
+      {
+        "studio_id": "S020",
+        "date": "2026-09-16",
+        "genre": "video"
+      },
+      {
+        "studio_id": "S012",
+        "date": "2026-08-11",
+        "genre": "interview"
+      }
+    ],
+    "saved_studios": [
+      "S004",
+      "S006"
+    ],
+    "last_active_city": "Delhi",
+    "preferred_genres": [
+      "interview",
+      "video"
+    ],
+    "data_status": "synthetic_demo_profile",
+    "notes": "Synthetic profile and interaction history; not a real person's behavior."
+  },
+  {
+    "user_id": "U-014",
+    "display_name": "Independent creator",
+    "profile_city": "Kolkata",
+    "past_bookings": [
+      {
+        "studio_id": "S048",
+        "date": "2026-02-25",
+        "genre": "solo voiceover"
+      }
+    ],
+    "saved_studios": [
+      "S002"
+    ],
+    "last_active_city": "Kolkata",
+    "preferred_genres": [
+      "solo voiceover"
+    ],
+    "data_status": "synthetic_demo_profile",
+    "notes": "Synthetic profile and interaction history; not a real person's behavior."
+  },
+  {
+    "user_id": "U-015",
+    "display_name": "Small-team creator",
+    "profile_city": "Jaipur",
+    "past_bookings": [
+      {
+        "studio_id": "S031",
+        "date": "2026-04-28",
+        "genre": "interview"
+      },
+      {
+        "studio_id": "S031",
+        "date": "2026-02-24",
+        "genre": "interview"
+      },
+      {
+        "studio_id": "S031",
+        "date": "2026-01-17",
+        "genre": "interview"
+      },
+      {
+        "studio_id": "S031",
+        "date": "2026-08-07",
+        "genre": "interview"
+      }
+    ],
+    "saved_studios": [
+      "S001",
+      "S009"
+    ],
+    "last_active_city": "Jaipur",
+    "preferred_genres": [
+      "interview"
+    ],
+    "data_status": "synthetic_demo_profile",
+    "notes": "Synthetic profile and interaction history; not a real person's behavior."
+  },
+  {
+    "user_id": "U-016",
+    "display_name": "New creator 2",
+    "profile_city": "Chennai",
+    "past_bookings": [],
+    "saved_studios": [],
+    "last_active_city": "Chennai",
+    "preferred_genres": [],
+    "data_status": "synthetic_demo_profile",
+    "notes": "Synthetic profile and interaction history; not a real person's behavior."
+  },
+  {
+    "user_id": "U-017",
+    "display_name": "Saved-studio user",
+    "profile_city": "Bengaluru",
+    "past_bookings": [
+      {
+        "studio_id": "S024",
+        "date": "2026-06-30",
+        "genre": "interview"
+      },
+      {
+        "studio_id": "S043",
+        "date": "2026-05-28",
+        "genre": "interview"
+      },
+      {
+        "studio_id": "S001",
+        "date": "2026-09-13",
+        "genre": "interview"
+      },
+      {
+        "studio_id": "S002",
+        "date": "2026-02-24",
+        "genre": "interview"
+      },
+      {
+        "studio_id": "S003",
+        "date": "2026-10-05",
+        "genre": "interview"
+      }
+    ],
+    "saved_studios": [
+      "S003",
+      "S010"
+    ],
+    "last_active_city": "Bengaluru",
+    "preferred_genres": [
+      "interview"
+    ],
+    "data_status": "synthetic_demo_profile",
+    "notes": "Synthetic profile and interaction history; not a real person's behavior."
+  },
+  {
+    "user_id": "U-018",
+    "display_name": "Price-sensitive video creator",
+    "profile_city": "Pune",
+    "past_bookings": [
+      {
+        "studio_id": "S025",
+        "date": "2026-01-03",
+        "genre": "video"
+      },
+      {
+        "studio_id": "S006",
+        "date": "2026-06-27",
+        "genre": "video"
+      },
+      {
+        "studio_id": "S014",
+        "date": "2026-04-02",
+        "genre": "video"
+      },
+      {
+        "studio_id": "S025",
+        "date": "2026-02-27",
+        "genre": "video"
+      },
+      {
+        "studio_id": "S006",
+        "date": "2026-08-31",
+        "genre": "video"
+      },
+      {
+        "studio_id": "S014",
+        "date": "2026-04-19",
+        "genre": "video"
+      }
+    ],
+    "saved_studios": [
+      "S005",
+      "S006"
+    ],
+    "last_active_city": "Pune",
+    "preferred_genres": [
+      "video"
+    ],
+    "data_status": "synthetic_demo_profile",
+    "notes": "Synthetic profile and interaction history; not a real person's behavior."
+  },
+  {
+    "user_id": "U-019",
+    "display_name": "Music-and-interview creator",
+    "profile_city": "Mumbai",
+    "past_bookings": [
+      {
+        "studio_id": "S004",
+        "date": "2026-04-28",
+        "genre": "music"
+      },
+      {
+        "studio_id": "S017",
+        "date": "2026-08-03",
+        "genre": "interview"
+      },
+      {
+        "studio_id": "S004",
+        "date": "2026-05-05",
+        "genre": "music"
+      },
+      {
+        "studio_id": "S009",
+        "date": "2026-01-19",
+        "genre": "interview"
+      },
+      {
+        "studio_id": "S004",
+        "date": "2026-04-30",
+        "genre": "music"
+      },
+      {
+        "studio_id": "S060",
+        "date": "2026-03-10",
+        "genre": "interview"
+      }
+    ],
+    "saved_studios": [
+      "S007",
+      "S009"
+    ],
+    "last_active_city": "Mumbai",
+    "preferred_genres": [
+      "interview",
+      "music"
+    ],
+    "data_status": "synthetic_demo_profile",
+    "notes": "Synthetic profile and interaction history; not a real person's behavior."
+  },
+  {
+    "user_id": "U-020",
+    "display_name": "Low-signal creator",
+    "profile_city": "Kolkata",
+    "past_bookings": [
+      {
+        "studio_id": "S048",
+        "date": "2026-03-13",
+        "genre": "interview"
+      },
+      {
+        "studio_id": "S048",
+        "date": "2026-05-07",
+        "genre": "interview"
+      },
+      {
+        "studio_id": "S048",
+        "date": "2025-12-26",
+        "genre": "interview"
+      },
+      {
+        "studio_id": "S048",
+        "date": "2026-08-01",
+        "genre": "interview"
+      }
+    ],
+    "saved_studios": [],
+    "last_active_city": "Kolkata",
+    "preferred_genres": [
+      "interview"
+    ],
+    "data_status": "synthetic_demo_profile",
+    "notes": "Synthetic profile and interaction history; not a real person's behavior."
+  }
+]

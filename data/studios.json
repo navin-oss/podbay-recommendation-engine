@@ -1,0 +1,1479 @@
+[
+  {
+    "studio_id": "S001",
+    "name": "Echo Room",
+    "city": "Bengaluru",
+    "price_per_hour": 1200,
+    "capacity": 4,
+    "genre_fit": [
+      "interview",
+      "video"
+    ],
+    "equipment": [
+      "2 microphones",
+      "audio interface",
+      "headphones"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": true,
+    "rating": 4.8,
+    "review_count": 126,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S002",
+    "name": "VoiceCraft Studio",
+    "city": "Bengaluru",
+    "price_per_hour": 900,
+    "capacity": 2,
+    "genre_fit": [
+      "interview",
+      "solo voiceover"
+    ],
+    "equipment": [
+      "1 microphone",
+      "audio interface",
+      "headphones"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": false,
+    "rating": 4.6,
+    "review_count": 83,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S003",
+    "name": "FrameCast Studio",
+    "city": "Bengaluru",
+    "price_per_hour": 1500,
+    "capacity": 5,
+    "genre_fit": [
+      "interview",
+      "video"
+    ],
+    "equipment": [
+      "2 cameras",
+      "3 microphones",
+      "lighting"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": true,
+    "rating": 4.7,
+    "review_count": 91,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S004",
+    "name": "BeatHouse",
+    "city": "Mumbai",
+    "price_per_hour": 1800,
+    "capacity": 4,
+    "genre_fit": [
+      "music",
+      "video"
+    ],
+    "equipment": [
+      "4 microphones",
+      "mixer",
+      "monitors"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": true,
+    "rating": 4.5,
+    "review_count": 64,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S005",
+    "name": "QuietTake",
+    "city": "Pune",
+    "price_per_hour": 700,
+    "capacity": 2,
+    "genre_fit": [
+      "interview",
+      "solo voiceover"
+    ],
+    "equipment": [
+      "1 microphone",
+      "headphones"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": false,
+    "rating": 4.4,
+    "review_count": 42,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S006",
+    "name": "PodWorks",
+    "city": "Pune",
+    "price_per_hour": 1100,
+    "capacity": 4,
+    "genre_fit": [
+      "interview",
+      "video"
+    ],
+    "equipment": [
+      "2 microphones",
+      "camera",
+      "lighting"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": true,
+    "rating": 4.7,
+    "review_count": 77,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S007",
+    "name": "The Sound Loft",
+    "city": "Delhi",
+    "price_per_hour": 1600,
+    "capacity": 6,
+    "genre_fit": [
+      "interview",
+      "music"
+    ],
+    "equipment": [
+      "4 microphones",
+      "headphones",
+      "mixer"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": false,
+    "rating": 4.6,
+    "review_count": 102,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S008",
+    "name": "SoloSignal",
+    "city": "Hyderabad",
+    "price_per_hour": 650,
+    "capacity": 1,
+    "genre_fit": [
+      "solo voiceover"
+    ],
+    "equipment": [
+      "1 microphone",
+      "headphones"
+    ],
+    "acoustic_treatment": false,
+    "video_recording": false,
+    "rating": 4.2,
+    "review_count": 28,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S009",
+    "name": "TalkSpace",
+    "city": "Mumbai",
+    "price_per_hour": 1300,
+    "capacity": 4,
+    "genre_fit": [
+      "interview"
+    ],
+    "equipment": [
+      "2 microphones",
+      "audio interface",
+      "headphones"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": false,
+    "rating": 4.8,
+    "review_count": 143,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S010",
+    "name": "CinemaPod",
+    "city": "Delhi",
+    "price_per_hour": 2200,
+    "capacity": 6,
+    "genre_fit": [
+      "interview",
+      "video"
+    ],
+    "equipment": [
+      "3 cameras",
+      "4 microphones",
+      "lighting"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": true,
+    "rating": 4.9,
+    "review_count": 58,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S011",
+    "name": "IndieMic",
+    "city": "Chennai",
+    "price_per_hour": 850,
+    "capacity": 2,
+    "genre_fit": [
+      "music",
+      "solo voiceover"
+    ],
+    "equipment": [
+      "1 microphone",
+      "audio interface"
+    ],
+    "acoustic_treatment": false,
+    "video_recording": false,
+    "rating": 4.1,
+    "review_count": 31,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S012",
+    "name": "Studio North",
+    "city": "Delhi",
+    "price_per_hour": 1000,
+    "capacity": 3,
+    "genre_fit": [
+      "interview",
+      "solo voiceover"
+    ],
+    "equipment": [
+      "2 microphones",
+      "headphones"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": false,
+    "rating": 4.3,
+    "review_count": 49,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S013",
+    "name": "BlueDoor Audio",
+    "city": "Bengaluru",
+    "price_per_hour": 1000,
+    "capacity": 3,
+    "genre_fit": [
+      "interview",
+      "music"
+    ],
+    "equipment": [
+      "2 microphones",
+      "mixer"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": false,
+    "rating": 4.5,
+    "review_count": 68,
+    "active": false,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S014",
+    "name": "PixelPod",
+    "city": "Pune",
+    "price_per_hour": 1700,
+    "capacity": 5,
+    "genre_fit": [
+      "interview",
+      "video"
+    ],
+    "equipment": [
+      "2 cameras",
+      "3 microphones",
+      "lighting"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": true,
+    "rating": 4.8,
+    "review_count": 85,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S015",
+    "name": "MicDrop Studio",
+    "city": "Hyderabad",
+    "price_per_hour": 950,
+    "capacity": 3,
+    "genre_fit": [
+      "interview",
+      "solo voiceover"
+    ],
+    "equipment": [
+      "2 microphones",
+      "headphones"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": false,
+    "rating": 4.5,
+    "review_count": 53,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S016",
+    "name": "LiveTake",
+    "city": "Chennai",
+    "price_per_hour": 1400,
+    "capacity": 4,
+    "genre_fit": [
+      "music",
+      "video"
+    ],
+    "equipment": [
+      "3 microphones",
+      "camera",
+      "mixer"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": true,
+    "rating": 4.6,
+    "review_count": 72,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S017",
+    "name": "Podcast Corner",
+    "city": "Mumbai",
+    "price_per_hour": 800,
+    "capacity": 2,
+    "genre_fit": [
+      "interview",
+      "solo voiceover"
+    ],
+    "equipment": [
+      "2 microphones",
+      "headphones"
+    ],
+    "acoustic_treatment": false,
+    "video_recording": false,
+    "rating": 4.2,
+    "review_count": 37,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S018",
+    "name": "Studio Orbit",
+    "city": "Bengaluru",
+    "price_per_hour": 2000,
+    "capacity": 8,
+    "genre_fit": [
+      "interview",
+      "music",
+      "video"
+    ],
+    "equipment": [
+      "3 cameras",
+      "5 microphones",
+      "lighting",
+      "mixer"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": true,
+    "rating": 4.9,
+    "review_count": 111,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S019",
+    "name": "VoiceNest",
+    "city": "Pune",
+    "price_per_hour": 750,
+    "capacity": 2,
+    "genre_fit": [
+      "solo voiceover"
+    ],
+    "equipment": [
+      "1 microphone",
+      "headphones"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": false,
+    "rating": 4.3,
+    "review_count": 46,
+    "active": false,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S020",
+    "name": "UrbanPod",
+    "city": "Delhi",
+    "price_per_hour": 1250,
+    "capacity": 4,
+    "genre_fit": [
+      "interview",
+      "video"
+    ],
+    "equipment": [
+      "2 microphones",
+      "camera",
+      "headphones"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": true,
+    "rating": 4.6,
+    "review_count": 88,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S021",
+    "name": "MusicMic Lab",
+    "city": "Mumbai",
+    "price_per_hour": 1900,
+    "capacity": 5,
+    "genre_fit": [
+      "music"
+    ],
+    "equipment": [
+      "4 microphones",
+      "mixer",
+      "monitors"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": false,
+    "rating": 4.7,
+    "review_count": 39,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S022",
+    "name": "Starter Booth",
+    "city": "Hyderabad",
+    "price_per_hour": 500,
+    "capacity": 1,
+    "genre_fit": [
+      "solo voiceover"
+    ],
+    "equipment": [
+      "1 microphone"
+    ],
+    "acoustic_treatment": false,
+    "video_recording": false,
+    "rating": 4.0,
+    "review_count": 19,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S023",
+    "name": "OpenFrame Studio",
+    "city": "Chennai",
+    "price_per_hour": 1600,
+    "capacity": 5,
+    "genre_fit": [
+      "interview",
+      "video"
+    ],
+    "equipment": [
+      "2 cameras",
+      "3 microphones",
+      "lighting"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": true,
+    "rating": 4.7,
+    "review_count": 66,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S024",
+    "name": "QuietSignal",
+    "city": "Bengaluru",
+    "price_per_hour": 800,
+    "capacity": 2,
+    "genre_fit": [
+      "interview",
+      "solo voiceover"
+    ],
+    "equipment": [
+      "1 microphone",
+      "headphones"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": false,
+    "rating": 4.4,
+    "review_count": 57,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S025",
+    "name": "GrandCast",
+    "city": "Pune",
+    "price_per_hour": 2400,
+    "capacity": 10,
+    "genre_fit": [
+      "interview",
+      "music",
+      "video"
+    ],
+    "equipment": [
+      "4 cameras",
+      "6 microphones",
+      "lighting",
+      "mixer"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": true,
+    "rating": 4.9,
+    "review_count": 96,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S026",
+    "name": "Pune Podcast Studio 26",
+    "city": "Pune",
+    "price_per_hour": 800,
+    "capacity": 3,
+    "genre_fit": [
+      "interview",
+      "music",
+      "regional-language"
+    ],
+    "equipment": [
+      "2 cameras",
+      "3 microphones",
+      "lighting"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": true,
+    "rating": 4.8,
+    "review_count": 113,
+    "active": false,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S027",
+    "name": "Indore Podcast Studio 27",
+    "city": "Indore",
+    "price_per_hour": 1600,
+    "capacity": 1,
+    "genre_fit": [
+      "solo voiceover"
+    ],
+    "equipment": [
+      "2 cameras",
+      "3 microphones",
+      "lighting"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": false,
+    "rating": 4.2,
+    "review_count": 119,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S028",
+    "name": "Bengaluru Podcast Studio 28",
+    "city": "Bengaluru",
+    "price_per_hour": 2500,
+    "capacity": 8,
+    "genre_fit": [
+      "regional-language"
+    ],
+    "equipment": [
+      "3 microphones",
+      "headphones",
+      "mixer"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": false,
+    "rating": 4.1,
+    "review_count": 60,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S029",
+    "name": "Ahmedabad Podcast Studio 29",
+    "city": "Ahmedabad",
+    "price_per_hour": 650,
+    "capacity": 6,
+    "genre_fit": [
+      "interview",
+      "regional-language"
+    ],
+    "equipment": [
+      "3 microphones",
+      "camera",
+      "lighting"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": false,
+    "rating": 3.8,
+    "review_count": 191,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S030",
+    "name": "Mumbai Podcast Studio 30",
+    "city": "Mumbai",
+    "price_per_hour": 1600,
+    "capacity": 5,
+    "genre_fit": [
+      "video"
+    ],
+    "equipment": [
+      "2 microphones",
+      "audio interface",
+      "headphones"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": true,
+    "rating": 4.0,
+    "review_count": 16,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S031",
+    "name": "Jaipur Podcast Studio 31",
+    "city": "Jaipur",
+    "price_per_hour": 1200,
+    "capacity": 5,
+    "genre_fit": [
+      "interview",
+      "solo voiceover"
+    ],
+    "equipment": [
+      "2 microphones",
+      "audio interface",
+      "headphones"
+    ],
+    "acoustic_treatment": false,
+    "video_recording": false,
+    "rating": 4.1,
+    "review_count": 99,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S032",
+    "name": "Noida Podcast Studio 32",
+    "city": "Noida",
+    "price_per_hour": 1600,
+    "capacity": 4,
+    "genre_fit": [
+      "interview",
+      "music",
+      "storytelling"
+    ],
+    "equipment": [
+      "3 microphones",
+      "headphones",
+      "mixer"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": false,
+    "rating": 4.5,
+    "review_count": 74,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S033",
+    "name": "Kolkata Podcast Studio 33",
+    "city": "Kolkata",
+    "price_per_hour": 500,
+    "capacity": 4,
+    "genre_fit": [
+      "roundtable",
+      "solo voiceover",
+      "storytelling"
+    ],
+    "equipment": [
+      "USB microphone",
+      "headphones"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": false,
+    "rating": 4.5,
+    "review_count": 73,
+    "active": false,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S034",
+    "name": "Chandigarh Podcast Studio 34",
+    "city": "Chandigarh",
+    "price_per_hour": 1200,
+    "capacity": 10,
+    "genre_fit": [
+      "music",
+      "solo voiceover",
+      "storytelling"
+    ],
+    "equipment": [
+      "3 cameras",
+      "5 microphones",
+      "lighting",
+      "mixer"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": false,
+    "rating": 4.1,
+    "review_count": 68,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S035",
+    "name": "Chennai Podcast Studio 35",
+    "city": "Chennai",
+    "price_per_hour": 1800,
+    "capacity": 8,
+    "genre_fit": [
+      "music",
+      "roundtable",
+      "storytelling"
+    ],
+    "equipment": [
+      "3 microphones",
+      "camera",
+      "lighting"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": true,
+    "rating": 4.1,
+    "review_count": 135,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S036",
+    "name": "Nagpur Podcast Studio 36",
+    "city": "Nagpur",
+    "price_per_hour": 750,
+    "capacity": 3,
+    "genre_fit": [
+      "regional-language"
+    ],
+    "equipment": [
+      "2 microphones",
+      "audio interface",
+      "headphones"
+    ],
+    "acoustic_treatment": false,
+    "video_recording": true,
+    "rating": 4.5,
+    "review_count": 102,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S037",
+    "name": "Hyderabad Podcast Studio 37",
+    "city": "Hyderabad",
+    "price_per_hour": 2200,
+    "capacity": 2,
+    "genre_fit": [
+      "music",
+      "roundtable"
+    ],
+    "equipment": [
+      "1 microphone",
+      "headphones"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": false,
+    "rating": 4.0,
+    "review_count": 80,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S038",
+    "name": "Kochi Podcast Studio 38",
+    "city": "Kochi",
+    "price_per_hour": 1600,
+    "capacity": 3,
+    "genre_fit": [
+      "interview",
+      "storytelling"
+    ],
+    "equipment": [
+      "4 microphones",
+      "mixer",
+      "monitors"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": false,
+    "rating": 4.9,
+    "review_count": 134,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S039",
+    "name": "Delhi Podcast Studio 39",
+    "city": "Delhi",
+    "price_per_hour": 1600,
+    "capacity": 1,
+    "genre_fit": [
+      "music"
+    ],
+    "equipment": [
+      "3 microphones",
+      "headphones",
+      "mixer"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": false,
+    "rating": 3.8,
+    "review_count": 33,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S040",
+    "name": "Lucknow Podcast Studio 40",
+    "city": "Lucknow",
+    "price_per_hour": 1800,
+    "capacity": 2,
+    "genre_fit": [
+      "interview",
+      "solo voiceover"
+    ],
+    "equipment": [
+      "2 cameras",
+      "3 microphones",
+      "lighting"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": false,
+    "rating": 4.0,
+    "review_count": 199,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S041",
+    "name": "Pune Podcast Studio 41",
+    "city": "Pune",
+    "price_per_hour": 1600,
+    "capacity": 3,
+    "genre_fit": [
+      "solo voiceover"
+    ],
+    "equipment": [
+      "3 cameras",
+      "5 microphones",
+      "lighting",
+      "mixer"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": false,
+    "rating": 4.2,
+    "review_count": 143,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S042",
+    "name": "Indore Podcast Studio 42",
+    "city": "Indore",
+    "price_per_hour": 2200,
+    "capacity": 6,
+    "genre_fit": [
+      "music",
+      "solo voiceover",
+      "storytelling"
+    ],
+    "equipment": [
+      "3 microphones",
+      "camera",
+      "lighting"
+    ],
+    "acoustic_treatment": false,
+    "video_recording": false,
+    "rating": 4.0,
+    "review_count": 68,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S043",
+    "name": "Bengaluru Podcast Studio 43",
+    "city": "Bengaluru",
+    "price_per_hour": 1800,
+    "capacity": 4,
+    "genre_fit": [
+      "interview",
+      "roundtable"
+    ],
+    "equipment": [
+      "2 cameras",
+      "3 microphones",
+      "lighting"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": true,
+    "rating": 4.9,
+    "review_count": 20,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S044",
+    "name": "Ahmedabad Podcast Studio 44",
+    "city": "Ahmedabad",
+    "price_per_hour": 650,
+    "capacity": 4,
+    "genre_fit": [
+      "regional-language"
+    ],
+    "equipment": [
+      "USB microphone",
+      "headphones"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": false,
+    "rating": 4.2,
+    "review_count": 143,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S045",
+    "name": "Mumbai Podcast Studio 45",
+    "city": "Mumbai",
+    "price_per_hour": 1200,
+    "capacity": 4,
+    "genre_fit": [
+      "roundtable",
+      "solo voiceover",
+      "video"
+    ],
+    "equipment": [
+      "3 cameras",
+      "5 microphones",
+      "lighting",
+      "mixer"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": true,
+    "rating": 4.9,
+    "review_count": 115,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S046",
+    "name": "Jaipur Podcast Studio 46",
+    "city": "Jaipur",
+    "price_per_hour": 2200,
+    "capacity": 2,
+    "genre_fit": [
+      "storytelling",
+      "video"
+    ],
+    "equipment": [
+      "1 microphone",
+      "headphones"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": false,
+    "rating": 4.4,
+    "review_count": 209,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S047",
+    "name": "Noida Podcast Studio 47",
+    "city": "Noida",
+    "price_per_hour": 1600,
+    "capacity": 10,
+    "genre_fit": [
+      "solo voiceover"
+    ],
+    "equipment": [
+      "2 cameras",
+      "3 microphones",
+      "lighting"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": false,
+    "rating": 4.1,
+    "review_count": 76,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S048",
+    "name": "Kolkata Podcast Studio 48",
+    "city": "Kolkata",
+    "price_per_hour": 500,
+    "capacity": 1,
+    "genre_fit": [
+      "video"
+    ],
+    "equipment": [
+      "2 microphones",
+      "audio interface",
+      "headphones"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": true,
+    "rating": 4.1,
+    "review_count": 109,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S049",
+    "name": "Chandigarh Podcast Studio 49",
+    "city": "Chandigarh",
+    "price_per_hour": 500,
+    "capacity": 3,
+    "genre_fit": [
+      "regional-language"
+    ],
+    "equipment": [
+      "3 microphones",
+      "camera",
+      "lighting"
+    ],
+    "acoustic_treatment": false,
+    "video_recording": true,
+    "rating": 4.5,
+    "review_count": 72,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S050",
+    "name": "Chennai Podcast Studio 50",
+    "city": "Chennai",
+    "price_per_hour": 750,
+    "capacity": 4,
+    "genre_fit": [
+      "music",
+      "video"
+    ],
+    "equipment": [
+      "3 cameras",
+      "5 microphones",
+      "lighting",
+      "mixer"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": true,
+    "rating": 3.8,
+    "review_count": 153,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S051",
+    "name": "Nagpur Podcast Studio 51",
+    "city": "Nagpur",
+    "price_per_hour": 500,
+    "capacity": 1,
+    "genre_fit": [
+      "storytelling"
+    ],
+    "equipment": [
+      "USB microphone",
+      "headphones"
+    ],
+    "acoustic_treatment": false,
+    "video_recording": true,
+    "rating": 3.8,
+    "review_count": 135,
+    "active": false,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S052",
+    "name": "Hyderabad Podcast Studio 52",
+    "city": "Hyderabad",
+    "price_per_hour": 2200,
+    "capacity": 4,
+    "genre_fit": [
+      "interview"
+    ],
+    "equipment": [
+      "2 microphones",
+      "audio interface",
+      "headphones"
+    ],
+    "acoustic_treatment": false,
+    "video_recording": true,
+    "rating": 4.8,
+    "review_count": 68,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S053",
+    "name": "Kochi Podcast Studio 53",
+    "city": "Kochi",
+    "price_per_hour": 1200,
+    "capacity": 6,
+    "genre_fit": [
+      "roundtable"
+    ],
+    "equipment": [
+      "2 microphones",
+      "audio interface",
+      "headphones"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": true,
+    "rating": 4.9,
+    "review_count": 188,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S054",
+    "name": "Delhi Podcast Studio 54",
+    "city": "Delhi",
+    "price_per_hour": 1400,
+    "capacity": 6,
+    "genre_fit": [
+      "solo voiceover",
+      "video"
+    ],
+    "equipment": [
+      "4 microphones",
+      "mixer",
+      "monitors"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": true,
+    "rating": 4.6,
+    "review_count": 164,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S055",
+    "name": "Lucknow Podcast Studio 55",
+    "city": "Lucknow",
+    "price_per_hour": 1600,
+    "capacity": 5,
+    "genre_fit": [
+      "interview"
+    ],
+    "equipment": [
+      "2 cameras",
+      "3 microphones",
+      "lighting"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": false,
+    "rating": 4.0,
+    "review_count": 67,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S056",
+    "name": "Pune Podcast Studio 56",
+    "city": "Pune",
+    "price_per_hour": 1800,
+    "capacity": 1,
+    "genre_fit": [
+      "video"
+    ],
+    "equipment": [
+      "4 microphones",
+      "mixer",
+      "monitors"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": true,
+    "rating": 4.1,
+    "review_count": 72,
+    "active": false,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S057",
+    "name": "Indore Podcast Studio 57",
+    "city": "Indore",
+    "price_per_hour": 900,
+    "capacity": 5,
+    "genre_fit": [
+      "storytelling"
+    ],
+    "equipment": [
+      "3 microphones",
+      "headphones",
+      "mixer"
+    ],
+    "acoustic_treatment": true,
+    "video_recording": false,
+    "rating": 4.2,
+    "review_count": 180,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S058",
+    "name": "Bengaluru Podcast Studio 58",
+    "city": "Bengaluru",
+    "price_per_hour": 500,
+    "capacity": 2,
+    "genre_fit": [
+      "roundtable",
+      "video"
+    ],
+    "equipment": [
+      "4 microphones",
+      "mixer",
+      "monitors"
+    ],
+    "acoustic_treatment": false,
+    "video_recording": false,
+    "rating": 3.8,
+    "review_count": 5,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S059",
+    "name": "Ahmedabad Podcast Studio 59",
+    "city": "Ahmedabad",
+    "price_per_hour": 750,
+    "capacity": 10,
+    "genre_fit": [
+      "storytelling"
+    ],
+    "equipment": [
+      "4 microphones",
+      "mixer",
+      "monitors"
+    ],
+    "acoustic_treatment": false,
+    "video_recording": true,
+    "rating": 4.0,
+    "review_count": 24,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  },
+  {
+    "studio_id": "S060",
+    "name": "Mumbai Podcast Studio 60",
+    "city": "Mumbai",
+    "price_per_hour": 1800,
+    "capacity": 3,
+    "genre_fit": [
+      "interview",
+      "roundtable",
+      "solo voiceover"
+    ],
+    "equipment": [
+      "USB microphone",
+      "headphones"
+    ],
+    "acoustic_treatment": false,
+    "video_recording": true,
+    "rating": 3.8,
+    "review_count": 83,
+    "active": true,
+    "currency": "INR",
+    "source_type": "synthetic_demo_data",
+    "source_note": "Fictional studio record; not a verified real venue.",
+    "availability_note": "active indicates demo booking status only; verify real availability separately."
+  }
+]

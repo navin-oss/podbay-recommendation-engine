@@ -1,0 +1,61 @@
+studio_id,name,city,price_per_hour,currency,capacity,genre_fit,equipment,acoustic_treatment,video_recording,rating,review_count,active,source_type,source_note
+S001,Echo Room,Bengaluru,1200,INR,4,interview|video,2 microphones|audio interface|headphones,True,True,4.8,126,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S002,VoiceCraft Studio,Bengaluru,900,INR,2,interview|solo voiceover,1 microphone|audio interface|headphones,True,False,4.6,83,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S003,FrameCast Studio,Bengaluru,1500,INR,5,interview|video,2 cameras|3 microphones|lighting,True,True,4.7,91,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S004,BeatHouse,Mumbai,1800,INR,4,music|video,4 microphones|mixer|monitors,True,True,4.5,64,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S005,QuietTake,Pune,700,INR,2,interview|solo voiceover,1 microphone|headphones,True,False,4.4,42,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S006,PodWorks,Pune,1100,INR,4,interview|video,2 microphones|camera|lighting,True,True,4.7,77,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S007,The Sound Loft,Delhi,1600,INR,6,interview|music,4 microphones|headphones|mixer,True,False,4.6,102,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S008,SoloSignal,Hyderabad,650,INR,1,solo voiceover,1 microphone|headphones,False,False,4.2,28,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S009,TalkSpace,Mumbai,1300,INR,4,interview,2 microphones|audio interface|headphones,True,False,4.8,143,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S010,CinemaPod,Delhi,2200,INR,6,interview|video,3 cameras|4 microphones|lighting,True,True,4.9,58,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S011,IndieMic,Chennai,850,INR,2,music|solo voiceover,1 microphone|audio interface,False,False,4.1,31,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S012,Studio North,Delhi,1000,INR,3,interview|solo voiceover,2 microphones|headphones,True,False,4.3,49,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S013,BlueDoor Audio,Bengaluru,1000,INR,3,interview|music,2 microphones|mixer,True,False,4.5,68,False,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S014,PixelPod,Pune,1700,INR,5,interview|video,2 cameras|3 microphones|lighting,True,True,4.8,85,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S015,MicDrop Studio,Hyderabad,950,INR,3,interview|solo voiceover,2 microphones|headphones,True,False,4.5,53,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S016,LiveTake,Chennai,1400,INR,4,music|video,3 microphones|camera|mixer,True,True,4.6,72,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S017,Podcast Corner,Mumbai,800,INR,2,interview|solo voiceover,2 microphones|headphones,False,False,4.2,37,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S018,Studio Orbit,Bengaluru,2000,INR,8,interview|music|video,3 cameras|5 microphones|lighting|mixer,True,True,4.9,111,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S019,VoiceNest,Pune,750,INR,2,solo voiceover,1 microphone|headphones,True,False,4.3,46,False,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S020,UrbanPod,Delhi,1250,INR,4,interview|video,2 microphones|camera|headphones,True,True,4.6,88,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S021,MusicMic Lab,Mumbai,1900,INR,5,music,4 microphones|mixer|monitors,True,False,4.7,39,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S022,Starter Booth,Hyderabad,500,INR,1,solo voiceover,1 microphone,False,False,4.0,19,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S023,OpenFrame Studio,Chennai,1600,INR,5,interview|video,2 cameras|3 microphones|lighting,True,True,4.7,66,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S024,QuietSignal,Bengaluru,800,INR,2,interview|solo voiceover,1 microphone|headphones,True,False,4.4,57,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S025,GrandCast,Pune,2400,INR,10,interview|music|video,4 cameras|6 microphones|lighting|mixer,True,True,4.9,96,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S026,Pune Podcast Studio 26,Pune,800,INR,3,interview|music|regional-language,2 cameras|3 microphones|lighting,True,True,4.8,113,False,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S027,Indore Podcast Studio 27,Indore,1600,INR,1,solo voiceover,2 cameras|3 microphones|lighting,True,False,4.2,119,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S028,Bengaluru Podcast Studio 28,Bengaluru,2500,INR,8,regional-language,3 microphones|headphones|mixer,True,False,4.1,60,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S029,Ahmedabad Podcast Studio 29,Ahmedabad,650,INR,6,interview|regional-language,3 microphones|camera|lighting,True,False,3.8,191,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S030,Mumbai Podcast Studio 30,Mumbai,1600,INR,5,video,2 microphones|audio interface|headphones,True,True,4.0,16,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S031,Jaipur Podcast Studio 31,Jaipur,1200,INR,5,interview|solo voiceover,2 microphones|audio interface|headphones,False,False,4.1,99,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S032,Noida Podcast Studio 32,Noida,1600,INR,4,interview|music|storytelling,3 microphones|headphones|mixer,True,False,4.5,74,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S033,Kolkata Podcast Studio 33,Kolkata,500,INR,4,roundtable|solo voiceover|storytelling,USB microphone|headphones,True,False,4.5,73,False,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S034,Chandigarh Podcast Studio 34,Chandigarh,1200,INR,10,music|solo voiceover|storytelling,3 cameras|5 microphones|lighting|mixer,True,False,4.1,68,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S035,Chennai Podcast Studio 35,Chennai,1800,INR,8,music|roundtable|storytelling,3 microphones|camera|lighting,True,True,4.1,135,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S036,Nagpur Podcast Studio 36,Nagpur,750,INR,3,regional-language,2 microphones|audio interface|headphones,False,True,4.5,102,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S037,Hyderabad Podcast Studio 37,Hyderabad,2200,INR,2,music|roundtable,1 microphone|headphones,True,False,4.0,80,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S038,Kochi Podcast Studio 38,Kochi,1600,INR,3,interview|storytelling,4 microphones|mixer|monitors,True,False,4.9,134,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S039,Delhi Podcast Studio 39,Delhi,1600,INR,1,music,3 microphones|headphones|mixer,True,False,3.8,33,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S040,Lucknow Podcast Studio 40,Lucknow,1800,INR,2,interview|solo voiceover,2 cameras|3 microphones|lighting,True,False,4.0,199,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S041,Pune Podcast Studio 41,Pune,1600,INR,3,solo voiceover,3 cameras|5 microphones|lighting|mixer,True,False,4.2,143,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S042,Indore Podcast Studio 42,Indore,2200,INR,6,music|solo voiceover|storytelling,3 microphones|camera|lighting,False,False,4.0,68,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S043,Bengaluru Podcast Studio 43,Bengaluru,1800,INR,4,interview|roundtable,2 cameras|3 microphones|lighting,True,True,4.9,20,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S044,Ahmedabad Podcast Studio 44,Ahmedabad,650,INR,4,regional-language,USB microphone|headphones,True,False,4.2,143,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S045,Mumbai Podcast Studio 45,Mumbai,1200,INR,4,roundtable|solo voiceover|video,3 cameras|5 microphones|lighting|mixer,True,True,4.9,115,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S046,Jaipur Podcast Studio 46,Jaipur,2200,INR,2,storytelling|video,1 microphone|headphones,True,False,4.4,209,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S047,Noida Podcast Studio 47,Noida,1600,INR,10,solo voiceover,2 cameras|3 microphones|lighting,True,False,4.1,76,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S048,Kolkata Podcast Studio 48,Kolkata,500,INR,1,video,2 microphones|audio interface|headphones,True,True,4.1,109,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S049,Chandigarh Podcast Studio 49,Chandigarh,500,INR,3,regional-language,3 microphones|camera|lighting,False,True,4.5,72,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S050,Chennai Podcast Studio 50,Chennai,750,INR,4,music|video,3 cameras|5 microphones|lighting|mixer,True,True,3.8,153,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S051,Nagpur Podcast Studio 51,Nagpur,500,INR,1,storytelling,USB microphone|headphones,False,True,3.8,135,False,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S052,Hyderabad Podcast Studio 52,Hyderabad,2200,INR,4,interview,2 microphones|audio interface|headphones,False,True,4.8,68,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S053,Kochi Podcast Studio 53,Kochi,1200,INR,6,roundtable,2 microphones|audio interface|headphones,True,True,4.9,188,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S054,Delhi Podcast Studio 54,Delhi,1400,INR,6,solo voiceover|video,4 microphones|mixer|monitors,True,True,4.6,164,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S055,Lucknow Podcast Studio 55,Lucknow,1600,INR,5,interview,2 cameras|3 microphones|lighting,True,False,4.0,67,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S056,Pune Podcast Studio 56,Pune,1800,INR,1,video,4 microphones|mixer|monitors,True,True,4.1,72,False,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S057,Indore Podcast Studio 57,Indore,900,INR,5,storytelling,3 microphones|headphones|mixer,True,False,4.2,180,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S058,Bengaluru Podcast Studio 58,Bengaluru,500,INR,2,roundtable|video,4 microphones|mixer|monitors,False,False,3.8,5,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S059,Ahmedabad Podcast Studio 59,Ahmedabad,750,INR,10,storytelling,4 microphones|mixer|monitors,False,True,4.0,24,True,synthetic_demo_data,Fictional studio record; not a verified real venue.
+S060,Mumbai Podcast Studio 60,Mumbai,1800,INR,3,interview|roundtable|solo voiceover,USB microphone|headphones,False,True,3.8,83,True,synthetic_demo_data,Fictional studio record; not a verified real venue.

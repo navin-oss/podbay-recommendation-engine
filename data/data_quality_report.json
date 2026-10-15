@@ -1,0 +1,15 @@
+{
+  "dataset_version": "1.0",
+  "created_date": "2026-10-15",
+  "studio_count": 60,
+  "user_count": 20,
+  "unique_studio_ids": 60,
+  "unique_user_ids": 20,
+  "active_studios": 54,
+  "inactive_studios": 6,
+  "users_without_bookings": 2,
+  "users_with_saved_studios": 17,
+  "all_records_synthetic": true,
+  "booking_references_valid": true,
+  "saved_studio_references_valid": true
+}
